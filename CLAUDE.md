@@ -6,9 +6,6 @@ the **`cdata-connect-ai` Python connector** for an optional cron job (`jobs/`).
 `render.yaml` deploys both plus Postgres. The goal is getting people from zero
 to a working chatbot as fast as possible; weigh every change against that.
 
-Ignore `../AGENTS.md`. It describes a Mintlify documentation site and applies to
-a different project in the parent directory, not to this one.
-
 See `CONTRIBUTING.md` for the change checklist and `README.md` for user-facing
 setup. This file holds what neither of those makes obvious.
 
